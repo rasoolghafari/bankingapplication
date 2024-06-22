@@ -20,14 +20,14 @@ Core banking functionalities project which provides APIs to create customers, se
 
 **Installation**
 
-1.	Clone the repository: git clone https://github.com/your-repo.git
+1.	Clone the repository: git clone [https://github.com/your-repo.git](https://github.com/rasoolghafari/bankingapplication.git)
 2.	Navigate to the project directory: cd banking-application
 3.	Build the project using Maven: mvn clean install
 
 **Usage**
 
 1.	Run the application using Maven: mvn spring-boot:run
-2.	Access the Swagger UI at http://localhost:8080/swagger-ui/ to view and test the APIs.
+2.	Access the Swagger UI at [http://localhost:8080/swagger-ui/](http://localhost:8080/swagger-ui/) to view and test the APIs.
 3.	Use the default username/password for APIs: user/user.
 
 **Unit Tests**
